@@ -84,10 +84,10 @@ The model was evaluated using standard classification metrics.
 
 | Metric | Score |
 |---|---:|
-| Accuracy | 86.23% |
-| Precision | 92.00% |
-| Recall | 84.15% |
-| F1-score | 87.90% |
+| Accuracy | 88.76% |
+| Precision | 89.10% |
+| Recall | 90.84% |
+| F1-score | 89.96% |
 
 These scores represent the reported model evaluation results for this project. They reflect performance on the evaluation data and do not guarantee equivalent performance on new patients or real-world clinical data.
 
